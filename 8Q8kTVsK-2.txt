@@ -1,0 +1,21 @@
+({a, b, c, d, e, f, g, h, i, h}, {q0, q1}, D, q0, {q1})
+q0, b, q0
+q0, c, q0
+q0, d, q0
+q0, e, q0
+q0, g, q0
+q0, h, q0
+q0, i, q0
+q0, h, q0
+q0, a, q1
+q0, f, q1
+q1, a, q1
+q1, f, q1
+q1, b, q0
+q1, c, q0
+q1, d, q0
+q1, e, q0
+q1, g, q0
+q1, h, q0
+q1, i, q0
+q1, h, q0
